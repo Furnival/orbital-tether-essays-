@@ -1,7 +1,5 @@
-# as published - momentum is not free 
-#Essay
 **1. Momentum Is Not Free**
-Essay 1 of 4 on harvesting orbital momentum
+[Essay 1 of 4 on harvesting orbital momentum]
 Why Rocket Lab's next business might not be launching rockets
 
 Every time a constellation satellite re-enters the atmosphere, it converts thousands of dollars of carefully accumulated orbital velocity into a brief streak of light. We call that "deorbiting." Engineers call it controlled. I call it burning money — and momentum we could have kept.
