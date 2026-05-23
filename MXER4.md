@@ -1,9 +1,9 @@
 Essay_MXER4.1
 
 # The Long Tether to Venus
-#### How MXER infrastructure could change what we do in another planet's sky
-Essay 4 of 4 on harvesting orbital momentum
----
+### How MXER infrastructure could change what we do in another planet's sky
+*[Essay 4 of 4 on harvesting orbital momentum]*  
+
 The first three essays in this series tried to stay close to Earth. I argued that a rotovator deorbit service could be commercially viable, that the same hardware could grow into a facility selling boosts toward geostationary orbit, and that a mature momentum-exchange system would eventually look less like a science project and more like an orbital utility — infrastructure that earns its keep by standing in a waste stream that the industry has not yet learned to value. This essay steps further out. It asks what happens when you take that same logic and apply it not to another orbit, but to another planet.
 
 Peter Beck has said more than once that Venus is a personal obsession. Rocket Lab has gone further than most companies in translating that obsession into serious engineering consideration, with members of the company's scientific staff publicly advocating for a private Venus atmospheric mission using the Photon spacecraft bus. If that ambition is genuine — and I believe it is — then there is a quiet question underneath all the near-term work on tethers and deorbit services: does building MXER infrastructure in Earth orbit also build the skills and hardware a reusable architecture at Venus would eventually demand?
