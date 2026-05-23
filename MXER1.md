@@ -1,6 +1,7 @@
 # 1. Momentum Is Not Free
 ## Why Rocket Lab's next business might not be launching rockets
 *[Essay 1 of 4 on harvesting orbital momentum]*  
+
 Every time a constellation satellite re-enters the atmosphere, it converts thousands of dollars of carefully accumulated orbital velocity into a brief streak of light. We call that "deorbiting." Engineers call it controlled. I call it burning money — and momentum we could have kept.
 
 I am not an aerospace engineer. I am a retired architect, Yale graduate, a former instructor at the Graduate School of Engineering at Quinnipiac University and Parsons Paris, and a shareholder in Rocket Lab since its SPAC days. I am currently taking a course in spacecraft rendezvous and proximity operations at Johns Hopkins, which means I am just far enough into this subject to know how much I don't know — and just far enough to recognize a structural inefficiency when I see one. What I see here is a system that has not yet decided whether orbital momentum is a resource or a waste product. I think that decision is coming. And I think it matters which company makes it first.
