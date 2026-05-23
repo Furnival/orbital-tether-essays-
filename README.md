@@ -1,5 +1,3 @@
-# 
-
 # Orbital Momentum Exchange: Essays on Tether-Based Systems
 
 **Author:** Lawrence Furnival  
