@@ -1,4 +1,6 @@
-# Between Orbits: MXER Tethers vs Electric Propulsion Tugs
+# Between Orbits 
+### MXER Tethers vs Electric Propulsion Tugs
+*[3.5 of 4 essays on harvesting orbital momentum]*   
 
 ## The Core Distinction
 
